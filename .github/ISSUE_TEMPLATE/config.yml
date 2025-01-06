@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: a project set
-    about: project set template
+    about: a project set template
     url: https://github.com/tubasa17/study-session/issues/new?projects=tubasa17/1&template=abceds.md&labels=bug
